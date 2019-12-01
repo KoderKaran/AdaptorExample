@@ -1,5 +1,5 @@
 public class TurkeyAdapter implements Duck {
-	Turkey turkey;
+	private Turkey turkey;
 
 	public TurkeyAdapter(Turkey newTurkey){
 		turkey = newTurkey;
